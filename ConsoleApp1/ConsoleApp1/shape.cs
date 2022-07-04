@@ -33,7 +33,7 @@ namespace ConsoleApp1
             }while(choice !=1 && choice !=2);
             
             Console.WriteLine("the area is -" + area);
-            Console.WriteLine("the parameter is -" + area);
+            Console.WriteLine("the parameter is -" + Parameter);
         }
 
     }
